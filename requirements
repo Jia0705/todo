@@ -1,0 +1,14 @@
+# Requirements
+
+1. Add a role column to the users table. Set the default value to user.
+
+2. Add a manage users inteface to the Todo App
+    - allow admin to add / update / delete user
+    - allow admin to change user's password
+    - manage users page can only be accessed by admin
+
+3. Convert all the functionality of the manage users to OOP
+
+4. Convert all the functionality of tasks to OOP
+
+5. Convert all the functionality of authentication to OOP
